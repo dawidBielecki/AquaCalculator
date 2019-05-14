@@ -1,0 +1,95 @@
+body{
+    background-color: rgb(10,10,12);
+}
+
+h1{
+    text-align: center;
+    color: dodgerblue;
+    font-family: cursive;
+}
+
+form{
+    text-align: center;
+    display: inline-block;
+}
+
+.calcBox{
+    
+    width: auto;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.inBox{
+    width: 300px;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+input{
+    margin-top: 10px;
+    margin-left: 5px
+    
+}
+
+.oblicz{
+    margin-top: 20px;
+    width: 100px
+    
+}
+   
+.tank{
+    background-image: url(img/Akwarium.png);
+    width: 550px;
+    height: 310px;
+    margin: auto;
+}
+
+.length{
+    color: red;
+}
+
+.width{
+    color: green
+}
+
+.height {
+    color: blue;
+}
+
+h6{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 30px;
+    color: dodgerblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
